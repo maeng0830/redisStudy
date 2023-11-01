@@ -1,4 +1,4 @@
-package maeng0830.redis;
+package maeng0830.redis.domain;
 
 import java.util.concurrent.TimeUnit;
 import lombok.Builder;
